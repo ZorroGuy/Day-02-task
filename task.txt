@@ -1,0 +1,26 @@
+1, Difference between Document and Window Objects in JavaScript
+
+Document Object (DOM)
+
+1. Represents the structure and content of the webpage.
+  
+2. Facilitates DOM manipulation through methods like `getElementById()` and `querySelector()`.
+
+3. Allows access to and modification of HTML elements, their attributes, and text content.
+
+4. Enables event handling for user interactions like clicks, mouse movements, and keypresses.
+
+5. Focuses on the content within the webpage, providing methods for dynamic updates without page reloads.
+
+Window Object:
+
+1. Represents the browser window or tab hosting the document.
+
+2. Serves as the global scope in a browser environment.
+
+3. Provides browser interaction functionalities like navigation, resizing, and opening new windows.
+
+4. Contains timing functions (`setTimeout()` and `setInterval()`) for executing code after delays or at regular intervals.
+
+5. Controls browser features and properties such as dimensions, location, and history.
+
